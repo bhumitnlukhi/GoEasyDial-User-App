@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700713204672",
+    "project_id": "goeasydial",
+    "storage_bucket": "goeasydial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700713204672:android:58a593b5b2d54cd8ee2625",
+        "android_client_info": {
+          "package_name": "com.goeasydial.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0BuCNPukJa-fj0sn2Mv2EXwENZQV-mhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
