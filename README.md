@@ -1,3 +1,62 @@
+# 🚀 App Name
+
+Simplify your daily life with ease!  
+Hire top-rated experts and professional service providers, all in just a few taps.  
+Create personalized service requests, select your preferred provider, and schedule services at your convenience.
+
+From household chores to specialized tasks — find the perfect help whenever you need it.  
+Enjoy a smoother, more relaxing life with the smartest way to get things done.
+
+**Your daily life, made effortless. 🚀**
+
+---
+
+# 📱 Features
+
+- Create custom service requests
+- Choose trusted service providers
+- Schedule services for a later time
+- Track and manage your service history
+- Enjoy a hassle-free experience!
+
+# 📸 App Screenshots
+### Language Screen
+![Language Screen](assets/screenshots/language.jpeg)
+
+### Onboard Screen
+![Onboard Screen](assets/screenshots/onboard_1.jpeg)
+
+### Login Screen
+![Login Screen](assets/screenshots/login.jpeg)
+
+### Home Dashboard
+![Home Dashboard](assets/screenshots/home.jpeg)
+
+### Select Location
+![Select Location](assets/screenshots/select_location.jpeg)
+
+### Bookings 
+![Bookings](assets/screenshots/bookings.jpeg)
+
+### Services 
+![Services](assets/screenshots/services.jpeg)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 this is read me file !
 
 issue list:
